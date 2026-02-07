@@ -44,7 +44,7 @@ Or if that doesn't work, add it to the manifest.json like so.
 
 ### Adding Jiggle Physics to your project
 
-Included in the package is a JiggleUpdateExample Monobehaviour, this should be included into your scene to make JiggleRigs work, you can also manually call the events yourself if you want precise control on when Jiggle Physics simulates or applies transforms.
+Included in the package is a JigglePhysicsUpdater Prefab, this should be included into your scene to make JiggleRigs work, you can also manually call the events yourself if you want precise control on when Jiggle Physics simulates or applies transforms. Simply read the JiggleUpdateExample.cs to execute the jiggle jobs yourself in your own update loop.
 
 ### Adding Jiggle Physics to an asset
 

@@ -324,6 +324,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 5119137500375318447, guid: 821755141bcd38f83ad9f8b684e086e1, type: 3}
+      propertyPath: proceduralMaterial
+      value: 
+      objectReference: {fileID: 2100000, guid: 4fe20975baa16b1d4986440508067f23, type: 2}
     - target: {fileID: 6988777920009514149, guid: 821755141bcd38f83ad9f8b684e086e1, type: 3}
       propertyPath: m_Name
       value: JigglePhysicsUpdater
